@@ -1,0 +1,12 @@
+*.*~
+*.box
+*.cer
+*.db
+*.DS_Store
+*.log
+*.mo
+*.pem
+*.p12
+*.pyc
+*.sql
+*.xls
